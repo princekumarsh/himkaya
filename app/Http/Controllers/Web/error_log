@@ -1,0 +1,8 @@
+[16-Jul-2023 15:16:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/himkaya/public_html/app/Http/Controllers/Web/WebController.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/himkaya/public_html/app/Http/Controllers/Web/WebController.php on line 51
+[16-Jul-2023 15:16:27 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/himkaya/public_html/app/Http/Controllers/Web/WebController.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/himkaya/public_html/app/Http/Controllers/Web/WebController.php on line 51
